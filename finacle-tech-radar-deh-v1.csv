@@ -1,0 +1,45 @@
+name,ring,quadrant
+Terraform,assess,back-end & infrastructure
+Figma,adopt,front-end
+Apollo,assess,language-and-frameworks
+TypeScript,adopt,language-and-frameworks
+Formik,assess,front-end
+Next.js,assess,language-and-frameworks
+Gatsby,adopt,language-and-frameworks
+GraphQL,adopt,language-and-frameworks
+MS AppCenter,adopt,tools
+Node.js,adopt,language-and-frameworks
+Redux,adopt,front-end
+Flux,hold,language-and-frameworks
+AngularJS 1.x,hold,language-and-frameworks
+Angular 6+,adopt,language-and-frameworks
+Docker,adopt,tools
+AWS Lambda,assess,back-end & infrastructure
+AWS S3,adopt,back-end & infrastructure
+Heroku,adopt,tools
+Firebase Realtime Database,adopt,back-end & infrastructure
+Yarn,adopt,tools
+MongoDB,adopt,back-end & infrastructure
+Mongoose,adopt,back-end & infrastructure
+D3,adopt,front-end
+Oracle DB,hold,back-end & infrastructure
+Spring MVC,hold,back-end & infrastructure
+Hibernate,hold,back-end & infrastructure
+Java,hold,language-and-frameworks
+PHP,hold,language-and-frameworks
+C langulafes,hold,language-and-frameworks
+Python,assess,language-and-frameworks
+Bitrise,assess,tools
+InVision,assess,tools
+Sentry.io,assess,tools
+React Virtualized,assess,front-end
+Ant Design,adopt,front-end
+Material UI,assess,front-end
+Storybook,adopt,front-end
+three.js,adopt,front-end
+Styled System,assess,front-end
+Minikube,adopt,tools
+Kubernetes,adopt,tools
+LocalStack,adopt,back-end & infrastructure
+ProseMirror,adopt,front-end
+Verdaccio,assess,tools
